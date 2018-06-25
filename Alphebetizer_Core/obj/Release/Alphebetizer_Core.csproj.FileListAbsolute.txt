@@ -1,0 +1,6 @@
+C:\Local_Code\repos\Alpha_Lite\Alphebetizer_Core\bin\Release\Alphebetizer_Core.dll
+C:\Local_Code\repos\Alpha_Lite\Alphebetizer_Core\bin\Release\Alphebetizer_Core.pdb
+C:\Local_Code\repos\Alpha_Lite\Alphebetizer_Core\obj\Release\Alphebetizer_Core.csproj.CoreCompileInputs.cache
+C:\Local_Code\repos\Alpha_Lite\Alphebetizer_Core\obj\Release\Alphebetizer_Core.dll
+C:\Local_Code\repos\Alpha_Lite\Alphebetizer_Core\obj\Release\Alphebetizer_Core.pdb
+C:\Local_Code\repos\Alpha_Lite\Alphebetizer_Core\obj\Release\Alphebetizer_Core.csprojAssemblyReference.cache
