@@ -1,0 +1,7 @@
+Goals:
+
+1) set up multi-paging
+2) set up a "hidden" scrolling mechanism to allow the program to open an infinitely large text file.
+  2a) set it up to calculate the number of characters it can have on the screen at any given time.
+3) fix UI bugs(should be top)
+4) User request - add OneNote compatibility- we'll see what the interop packages look like.

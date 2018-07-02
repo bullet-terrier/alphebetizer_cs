@@ -1,0 +1,13 @@
+C:\Local_Code\repos\Alphebetizer_Cs\Alphebetizer\Alphebetizer\obj\Debug\Interop.MSComctlLib.dll
+C:\Local_Code\repos\Alphebetizer_Cs\Alphebetizer\Alphebetizer\obj\Debug\Interop.NoteLinkComLib.dll
+C:\Local_Code\repos\Alphebetizer_Cs\Alphebetizer\Alphebetizer\obj\Debug\Alphebetizer.csproj.ResolveComReference.cache
+C:\Local_Code\repos\Alphebetizer_Cs\Alphebetizer\Alphebetizer\obj\Debug\Alphebetizer.Views.Base_Form.resources
+C:\Local_Code\repos\Alphebetizer_Cs\Alphebetizer\Alphebetizer\obj\Debug\Alphebetizer.csproj.GenerateResource.Cache
+C:\Local_Code\repos\Alphebetizer_Cs\Alphebetizer\Alphebetizer\bin\Debug\Alphebetizer.exe.config
+C:\Local_Code\repos\Alphebetizer_Cs\Alphebetizer\Alphebetizer\bin\Debug\Alphebetizer.exe
+C:\Local_Code\repos\Alphebetizer_Cs\Alphebetizer\Alphebetizer\bin\Debug\Alphebetizer.pdb
+C:\Local_Code\repos\Alphebetizer_Cs\Alphebetizer\Alphebetizer\obj\Debug\Alphebetizer.exe
+C:\Local_Code\repos\Alphebetizer_Cs\Alphebetizer\Alphebetizer\obj\Debug\Alphebetizer.pdb
+C:\Local_Code\repos\Alphebetizer_Cs\Alphebetizer\Alphebetizer\obj\Debug\Alphebetizer.Views.Elements.Alphebetizer.resources
+C:\Local_Code\repos\Alphebetizer_Cs\Alphebetizer\Alphebetizer\bin\Debug\Alphebetizer.exe.CodeAnalysisLog.xml
+C:\Local_Code\repos\Alphebetizer_Cs\Alphebetizer\Alphebetizer\bin\Debug\Alphebetizer.exe.lastcodeanalysissucceeded
